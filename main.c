@@ -11,6 +11,7 @@ typedef struct member{
     char name[30];
     int tel;
 }Member;
+
 Member arr[20] ={};
 int idx = 3; 
 void InsertMember(){
